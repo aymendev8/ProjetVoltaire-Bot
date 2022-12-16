@@ -1,3 +1,7 @@
+// @name         Projet Voltaire - Répondre aux questions de vocabulaire
+// @version      1.0
+// @description  Répondre aux questions de vocabulaire automatiquement. 
+// @author       aymendev8
 let lesmots = {
     // "mot": "definition",
   };
